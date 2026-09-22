@@ -64,7 +64,7 @@ npm run dev
 ```
 
 This starts the backend (with nodemon, auto-reload) and the frontend (Vite
-dev server) concurrently. Open **http://localhost:5173**.
+dev server) concurrently. Open ://localhhttpost:5173
 
 Or run them separately in two terminals:
 
