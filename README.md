@@ -167,3 +167,4 @@ switch:
   UI and workflow can be demonstrated end-to-end; swap in a real edge-AI
   pipeline by having your detection service call
   `POST /api/buses/:id/detections` with real payloads (see `backend/src/routes/buses.js`).
+  Direct link: http://localhost:5173/
